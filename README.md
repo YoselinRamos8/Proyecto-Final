@@ -1,4 +1,4 @@
-# Proyecto-Final
+# Proyecto-Final 
 
 **Registro de transacciones de criptomoneda**
 
@@ -36,7 +36,7 @@ Se concluye que este sistema permite a los educandos poder entender el funcionam
 del sistema, para su óptimo desarrollo, así como también este sitema permite comprender
 el funcionamiento del blockchain y su aplicación en criptomonedas.
 
-***Recomendaciones****
+***Recomendaciones***
 
 Se recomienda poder implementar un almacenamiento de mayor capacidad, ideal para poder 
 realizar operaciones más complejas
