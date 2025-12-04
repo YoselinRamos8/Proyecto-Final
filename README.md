@@ -1,4 +1,4 @@
-# Proyecto-Final 
+# Proyecto Final del curso de Sistemas Distribuidos - Grupo 1
 
 **Registro de transacciones de criptomoneda**
 
