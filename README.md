@@ -3,7 +3,7 @@
 **Registro de transacciones de criptomoneda**
 
 El registro de transacciones de criptomoneda es útil , debido a que permite
-la visualización del funcionamiento de bockchain con aplicación en criptomonedas
+la visualización del funcionamiento de bockchain con aplicación en criptomonedas.
 
 ***Utilidad***
 
@@ -33,12 +33,12 @@ distintas palabras clave para el funcionamiento del sistema.
 ***Conclusiones***
 
 Se concluye que este sistema permite a los educandos poder entender el funcionamineto 
-del sistema, para su óptimo desarrollo, así como también este sitema permite comprender
+del sistema, así como también este sitema permite comprender
 el funcionamiento del blockchain y su aplicación en criptomonedas.
 
 ***Recomendaciones***
 
 Se recomienda poder implementar un almacenamiento de mayor capacidad, ideal para poder 
 realizar operaciones más complejas
-Se recmienda además el poder implementar una interfaz más intuitiva, la cual también sea
+Se recomienda además el poder implementar una interfaz más intuitiva, la cual también sea
 amigable con el usuario final.
