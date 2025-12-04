@@ -8,7 +8,8 @@ la visualización del funcionamiento de bockchain con aplicación en criptomoned
 ***Utilidad***
 Demostración de forma didáctica conceptos tales como block, blockchian , así como 
 distintas palabras clave para el funcionamiento del sistema.
-[https://tse1.mm.bing.net/th/id/OIP.gohDHu6gfcXcy0EEDV0sYQHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3]
+
+https://tse1.mm.bing.net/th/id/OIP.gohDHu6gfcXcy0EEDV0sYQHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3
 ***Conceptos clave***
 - Block:
   Se refiere a las transacciones realizadas.
