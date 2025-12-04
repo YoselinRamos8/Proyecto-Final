@@ -6,6 +6,7 @@ El registro de transacciones de criptomoneda es útil , debido a que permite
 la visualización del funcionamiento de bockchain con aplicación en criptomonedas
 
 ***Utilidad***
+
 Demostración de forma didáctica conceptos tales como block, blockchian , así como 
 distintas palabras clave para el funcionamiento del sistema.
 
